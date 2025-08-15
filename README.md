@@ -14,6 +14,9 @@ Este proyecto es una muestra de mi trabajo, mis habilidades y mis proyectos, des
 - 📩 **Formulario de contacto funcional**
 
 ---
+## Modo Claro/Oscuro
+Este portfolio tiene el boton para poder cambiar entre modo claro y oscuro.
+---
 
 ## 🛠 Tecnologías utilizadas
 - **HTML5**
@@ -29,13 +32,13 @@ Este proyecto es una muestra de mi trabajo, mis habilidades y mis proyectos, des
 - 🐙 **GitHub:** [Emilianasieb](https://github.com/Emilianasieb)
 
 ---
-
-## 📷 Vista previa
-> _Aquí puedes colocar una captura de pantalla de tu portafolio para que los visitantes tengan una idea rápida de su apariencia._
-
-![Vista previa del portfolio](<img width="1340" height="604" alt="muestra" src="https://github.com/user-attachments/assets/08b67fff-bcab-4eca-b6ad-5e8ff8e4cfab" />
-) <!-- Cambia por la ruta real de tu imagen -->
-
+##  Estructura del proyecto
+├── 🖌️ style.css
+├── 🌄 imagenes/
+│ ├── 🎞️ gif/
+├── 💻 hscript.js
+├── 🚀 index.html
+└── ✏️ README.md
 ---
 
 ## 💡 Nota
