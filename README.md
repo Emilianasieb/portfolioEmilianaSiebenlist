@@ -15,7 +15,7 @@ Este proyecto es una muestra de mi trabajo, mis habilidades y mis proyectos, des
 
 ---
 ## Modo Claro/Oscuro
-Este portfolio tiene el boton para poder cambiar entre modo claro y oscuro.
+- Este portfolio tiene el boton para poder cambiar entre modo claro y oscuro.
 ---
 
 ## 🛠 Tecnologías utilizadas
@@ -32,7 +32,7 @@ Este portfolio tiene el boton para poder cambiar entre modo claro y oscuro.
 - 🐙 **GitHub:** [Emilianasieb](https://github.com/Emilianasieb)
 
 ---
-##  Estructura del proyecto
+## 📁 Estructura del proyecto
 ├── 🖌️ style.css
 ├── 🌄 imagenes/
 │ ├── 🎞️ gif/
