@@ -33,7 +33,8 @@ Este proyecto es una muestra de mi trabajo, mis habilidades y mis proyectos, des
 ## 📷 Vista previa
 > _Aquí puedes colocar una captura de pantalla de tu portafolio para que los visitantes tengan una idea rápida de su apariencia._
 
-![Vista previa del portfolio](img/captura-portfolio.png) <!-- Cambia por la ruta real de tu imagen -->
+![Vista previa del portfolio](<img width="1340" height="604" alt="muestra" src="https://github.com/user-attachments/assets/08b67fff-bcab-4eca-b6ad-5e8ff8e4cfab" />
+) <!-- Cambia por la ruta real de tu imagen -->
 
 ---
 
